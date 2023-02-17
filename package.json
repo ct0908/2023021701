@@ -1,0 +1,25 @@
+{
+  "name": "2023021701",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ct": "lessc css/index.less css/index.min.css -x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ct0908/2023021701.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ct0908/2023021701/issues"
+  },
+  "homepage": "https://github.com/ct0908/2023021701#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.6.3",
+    "less": "^4.1.3"
+  }
+}
